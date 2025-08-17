@@ -2,10 +2,10 @@
 This is the Vial layout that I've been tweaking since getting my Silakka54 a couple months ago.
 
 ### Features
-1. Home row mods for Shift key and quick layer switching
-2. Bottom row mods for easy access to Super, Ctrl, and Alt keys
-3. Mouse control, Media keys, Numpad
-4. Gaming layer
+- Home row mods for Shift key and quick layer switching
+- Bottom row mods for easy access to Super, Ctrl, and Alt keys
+- Mouse control, Media keys, Numpad
+- Gaming layer
 
 ### Layers
 0. Default typing mode (ColemakDH/QWERTY)
