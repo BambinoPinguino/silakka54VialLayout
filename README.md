@@ -21,3 +21,14 @@ This is the Vial layout that I've been tweaking since getting my Silakka54 a cou
 - You may need to modify the Tap-Hold settings to your liking in Vial if the mode switching isn't fast enough for you.
 - YMMV with the mouse keys on the Silakka's stock firmware. I compiled my own firmware to set the mouse keys to '[Inertia](https://docs.qmk.fm/features/mouse_keys#inertia-mode)' which feels better to me.
   - To do this, simply add `#define MOUSEKEY_INERTIA` to the config.h and compile.
+
+### Images
+
+![Layer 0](./images/layer0.png)
+![Layer 1](./images/layer1.png)
+![Layer 2](./images/layer2.png)
+![Layer 3](./images/layer3.png)
+![Layer 4](./images/layer4.png)
+![Layer 5](./images/layer5.png)  
+![Layer 6](./images/layer6.png)
+![Layer 7](./images/layer7.png)
