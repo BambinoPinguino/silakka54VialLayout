@@ -23,6 +23,7 @@ This is the Vial layout that I've been tweaking since getting my Silakka54 a cou
   - To do this, simply add `#define MOUSEKEY_INERTIA` to the config.h and compile.
 
 ### Images
+Layers 0 and 2 represent the layout for `myLayoutColemakDH.vil`, if you use `myLayoutQWERTY.vil` then they'll be flipped.
 
 ![Layer 0](./images/layer0.png)
 ![Layer 1](./images/layer1.png)
